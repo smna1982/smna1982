@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smna1982
-- 👀 I’m interested in New Delhi
+- 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me Reach me on on Mail ID smna1982@gmail.com
